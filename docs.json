@@ -13,6 +13,7 @@
   },
   "navigation": {
     "pages": [
+      "untitled-page",
       {
         "group": "Get started",
         "pages": [
